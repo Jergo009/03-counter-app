@@ -5,5 +5,36 @@ html, body {
     color : white;
     font-family:  Helvetica, Arial, sans-serif;
     font-size: 1.3rem;
-    padding: 70px;
+    /* padding: 70px;
+    display: flex;
+    height:100vh; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* background-color: black; */
+
 }
+
+button {
+    padding: 15px;
+    font-size:  1.3rem;
+    margin-right: 15px;
+    /* margin-bottom: 5px;
+    margin-top: 5px;
+    color: #000000;
+    border: 6px solid #3e3edb;
+    border-radius:15px;
+    padding: 15px;
+    font-size: 30px, 1.3rem;
+    font-family: tahoma;
+    letter-spacing:5px;
+    cursor: pointer;
+    font-weight: bold;
+    filter: drop-shadow(0 0 5px #3e3edb) drop-shadow(0 0 10px #3e3edb) contrast(2) brightness(1);
+    transition: .5s; */ 
+}
+
+/* .button:hover {
+    color: black;
+    background-color: #5555b3;
+    filter: drop-shadow(0 0 20px #3e3edb) contrast(2) brightness(1);
+  } */
